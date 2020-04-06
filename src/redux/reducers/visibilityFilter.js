@@ -14,4 +14,5 @@ const visibilityFilter = (state = initialState, action) => {
   }
 };
 
+
 export default visibilityFilter;
